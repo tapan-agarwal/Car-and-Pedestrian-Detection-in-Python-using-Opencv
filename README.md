@@ -1,5 +1,8 @@
 
-# CAR AND PEDESTRIAN DETECTION IN PYTHON USING OPENCV
 
-A brief description of what this project does and who it's for
+# Car and Pedestrian detection in Python using Opencv
+
+
+
+
 
