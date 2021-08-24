@@ -11,7 +11,7 @@ Detection of any object is a computer vision technology which is used to locate 
 
 ## Screenshots
 
-![](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV/blob/master/data/pic.png)
+![](https://github.com/tapan-agarwal/Car-and-Pedestrian-Detection-in-Python-using-Opencv/blob/master/g2.jpg)
 
 
 
